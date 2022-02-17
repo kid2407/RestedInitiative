@@ -5,3 +5,9 @@
 # Rested Initiative
 
 A module that allows you to roll for initiative once after completing a rest and use the result until the next one. No configuration required - just rest once and you are good to go!
+
+### Ko-Fi
+
+If you have read this far and want to show some more appreciation: I have a Ko-Fi, should you consider what I'm doing worth a little something. Of course I do not expect nor require anyone to use it, but I'll leave it here in case someone wants to give:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7ALZTI)
